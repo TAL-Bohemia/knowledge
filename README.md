@@ -13,4 +13,5 @@
 * [UML详解](uml/README.md)
 * 工具使用
   * [enterprise_architect](./enterprise_architect/Enterprise_Architect.md)
-
+* 设计模式
+  * [Gof 23种设计模式](Design_Patterns/GoF_23_design-patterns.md)
